@@ -1,0 +1,20 @@
+carrier
+x y o
+battleship
+x y o
+cruiser
+x y o
+submarine
+x y o
+destroyer
+x y o
+carrier
+x y o
+battleship
+x y o
+cruiser
+x y o
+submarine
+x y o
+destroyer
+x y o

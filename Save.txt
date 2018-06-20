@@ -1,0 +1,20 @@
+carrier
+8 4 0
+battleship
+2 8 1
+cruiser
+5 2 0
+submarine
+7 2 1
+destroyer
+2 2 1
+carrier
+2 6 1
+battleship
+6 1 0
+cruiser
+3 8 0
+submarine
+6 10 1
+destroyer
+8 9 1
