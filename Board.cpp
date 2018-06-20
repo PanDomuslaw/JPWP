@@ -76,7 +76,7 @@ int Board::hit(int x, int y)
 			ships_[id - 1]->hits_[cellNum-1];
 			if (ships_[id-1]->getIsSunk())
 			{
-				cout << "zatopiony";
+				cout << "You've sunk the ship\n";
 				cout << ships_[id-1]->getIsSunk() << endl;
 				return 2;
 			}
